@@ -1,0 +1,8 @@
+import 'package:kuis_dart/kuis_dart.dart';
+import 'package:test/test.dart';
+
+void main() {
+  test('calculate', () {
+    expect(calculate(), 42);
+  });
+}
