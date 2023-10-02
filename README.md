@@ -17,17 +17,22 @@ mencetak hello world dengan (print)
 Variabel name dideklarasikan dengan nilai 'Muhammad Bagas Ramadhan'.
 
 -Mencetak isi variabel name.
+
 -Mencetak isi variabel name lagi.
+
 -Mencetak isi variabel name untuk ketiga kalinya.
 
 ## Tugas 3
 ![](ss/tugas3.png)
 
 -Variabel firstName dideklarasikan sebagai string dengan nilai 'Muhammad'.
+
 -Konstanta (final) lastName dideklarasikan sebagai string dengan nilai 'Bagas Ramadhan'. Konstanta berarti nilainya tidak dapat diubah setelah deklarasi.
 
 -Mencetak nilai variabel firstName ke layar.
+
 -Mencetak nilai konstanta lastName ke layar.
+
 -Hasil cetakan akan menampilkan "Muhammad" (dari variabel) dan "Bagas Ramadhan" (dari konstanta) ke layar.
 
 ## Tugas 4
@@ -42,9 +47,11 @@ Oleh karena itu, perubahan terjadi pada index ke [0] pada array.
 ![](ss/tugas4bagian2.png) 
 
 -Variabel number1 dideklarasikan sebagai integer dengan nilai 100.
+
 -Variabel number2 dideklarasikan sebagai double dengan nilai 100.5. 
 
 Kemudian, kode mencetak nilai dari number1 dan number2 ke layar.
+
 -double dapat menyimpan bilangan pecahan, sementara int menyimpan bilangan bulat
 Hasil cetakan akan menampilkan nilai 100 (dari number1) dan 100.5 (dari number2) ke layar.
 
